@@ -3,7 +3,7 @@
 A command-line dictionary app built in Python that fetches definitions, examples, and synonyms.
 
 ## View the code
-The full code is in `word_dictionary.py` above.
+The full code is in `Dictionary.ipynb` above.
 
 ## About
 Built a fully functional command-line dictionary application in Python that allows users
